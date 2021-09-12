@@ -1,0 +1,11 @@
+{
+    "token": "mfa.NMoJvmfRuf362sOLt5x609HC5yPp12vxTZjND8WD4Unhn3WbMtlh3QAZCy8eOPry6kxOv8y0au_-qiDDY_jC",
+    "password": "password-here",
+    "prefix": "!",
+
+
+    "bitly_key": "c13e01c13c61a83fd37891737efe769875d2d73c",
+    "cat_key": "58d6b713-7e3c-4880-a58b-f5a8fb5a1548",
+    "weather_key": "92b307f7ce5d73d7e69cbcbb678fe8ce",
+    "cuttly_key": "cuttly-key-here"
+}
